@@ -11,14 +11,17 @@
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=aykxt&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=aykxt&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
 
-## 💰 You can help me by Donating
+## Help me by Donating
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/aykxt) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+</div> -->
+<img align="right" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+---
+![](https://komarev.com/ghpvc/?username=aykxt&style=flat-square)
+
+
+
